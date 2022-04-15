@@ -8,3 +8,4 @@ It also includes steps for GitHub
 
 I'm leraning git and github from w3school
 
+we made some changes to README.md
